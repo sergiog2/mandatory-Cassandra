@@ -1,0 +1,101 @@
+mes,fecha_lanzamiento,edad_minima,descripcion,genero,titulo,id_videojuego
+6,2022-9-23,11,"lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in",{terror},Consectetuer Rhoncus PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2023-1-3,13,"cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis","{terror, accion}",Dictum Eu Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2023-11-17,1,"non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis","{terror, accion}",Ut Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-12-4,20,Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor,{terror},Nibh Aliquam Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-8-20,4,tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam vitae diam.,"{accion, terror, romance}",Aliquam LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2021-12-21,16,odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam,"{accion, romance}",Amet Ornare Incorporated,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-1-10,16,"Nam ligula elit, pretium et, rutrum non, hendrerit id, ante.","{romance, terror}",Integer Sem Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2023-8-25,5,enim. Etiam gravida molestie arcu. Sed eu nibh vulputate mauris,"{romance, accion}",Quisque Varius Nam Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2023-5-18,20,diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est,"{romance, accion}",Magnis Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-4-19,7,est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada,"{terror, accion}",Vitae Erat LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2023-2-10,17,magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec,"{romance, terror}",Ultricies Ornare Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-12-3,8,"Duis cursus, diam at pretium aliquet, metus urna convallis erat,","{accion, terror}",Erat Eget Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-1-8,3,"egestas hendrerit neque. In ornare sagittis felis. Donec tempor, est","{terror, accion}",Nulla Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2023-12-16,17,sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula,"{accion, romance, terror}",Nulla Incorporated,86859a6c-7ded-11ed-9037-f42679b2c1cb
+0,2022-7-7,13,"dui lectus rutrum urna, nec luctus felis purus ac tellus.",{accion},Interdum Curabitur Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+8,2022-11-2,7,"ornare sagittis felis. Donec tempor, est ac mattis semper, dui","{terror, accion}",Magna Lorem Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2022-9-17,10,"torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam","{romance, accion, terror}",Tincidunt Pede Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-9-4,6,"consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem,","{accion, terror, romance}",Nec LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+8,2023-12-11,0,"tempor, est ac mattis semper, dui lectus rutrum urna, nec",{accion},Neque Non Incorporated,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2023-9-9,10,"felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",{romance},Suspendisse Tristique Neque Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-9-4,4,"mi, ac mattis velit justo nec ante. Maecenas mi felis,","{romance, terror, accion}",Et Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+0,2022-11-11,4,"lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras",{terror},Semper LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2023-8-15,13,malesuada malesuada. Integer id magna et ipsum cursus vestibulum. Mauris,"{accion, terror}",Fermentum Metus Aenean Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-9-12,20,convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula,{terror},Eu Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2023-8-14,6,"Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a,","{romance, accion}",Sem Pellentesque Consulting,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-2-13,20,"mauris ut mi. Duis risus odio, auctor vitae, aliquet nec,",{romance},Risus Varius Orci Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2023-10-21,17,"ac mattis ornare, lectus ante dictum mi, ac mattis velit","{romance, accion, terror}",Ut Lacus LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2022-10-10,9,metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh.,"{accion, romance, terror}",Sed LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-7-16,2,"non, bibendum sed, est. Nunc laoreet lectus quis massa. Mauris","{romance, terror, accion}",Pellentesque Tincidunt Tempus LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2023-1-29,19,"lectus pede et risus. Quisque libero lacus, varius et, euismod","{romance, terror}",At Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2022-5-20,0,"vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus","{accion, terror}",Ridiculus Mus Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2022-6-26,13,"lectus. Cum sociis natoque penatibus et magnis dis parturient montes,","{romance, accion}",At Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2023-6-2,2,"risus varius orci, in consequat enim diam vel arcu. Curabitur",{terror},Pede Sagittis LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2023-3-11,7,et netus et malesuada fames ac turpis egestas. Fusce aliquet,{terror},Iaculis Odio Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-5-6,5,"tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a",{romance},Commodo Auctor Consulting,86859a6c-7ded-11ed-9037-f42679b2c1cb
+12,2022-8-30,7,"magnis dis parturient montes, nascetur ridiculus mus. Proin vel nisl.",{accion},Eros Proin Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-7-17,10,"est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse","{romance, terror}",Commodo LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2022-8-8,6,"posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,","{terror, accion}",Magna Et Ipsum Inc.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-11-1,1,fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed,"{terror, accion, romance}",Tempus Risus LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2022-10-19,20,"non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget","{terror, romance, accion}",Morbi Consulting,86859a6c-7ded-11ed-9037-f42679b2c1cb
+0,2022-7-5,15,"mattis ornare, lectus ante dictum mi, ac mattis velit justo","{terror, accion}",Convallis Ante Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2023-3-1,15,"pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac,","{terror, accion, romance}",Eros Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-10-19,18,"nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras","{terror, romance}",Mauris Molestie Pharetra Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+3,2023-9-4,4,quis arcu vel quam dignissim pharetra. Nam ac nulla. In,"{romance, terror}",Ornare Lectus Justo Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2022-11-7,17,"risus. Quisque libero lacus, varius et, euismod et, commodo at,",{accion},Ipsum Porta Elit PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2022-12-15,11,diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat.,"{terror, accion}",Nisi Aenean Company,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-5-13,11,"sit amet, faucibus ut, nulla. Cras eu tellus eu augue","{terror, accion}",Aliquam Eu Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+3,2022-2-16,12,"at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque","{romance, accion}",Erat Eget Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-1-14,20,nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante,"{accion, romance}",Nisi Mauris Nulla Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-7-13,3,"felis eget varius ultrices, mauris ipsum porta elit, a feugiat","{terror, accion, romance}",Donec Est Mauris Limited,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-5-30,15,adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis natoque,"{accion, terror}",Lacinia Vitae Limited,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2022-8-21,11,"sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem",{accion},Quis PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2023-2-23,15,vitae mauris sit amet lorem semper auctor. Mauris vel turpis.,"{terror, romance}",Nonummy Ipsum Limited,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2022-9-27,15,"eu, ligula. Aenean euismod mauris eu elit. Nulla facilisi. Sed","{accion, terror, romance}",Nec Enim Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-9-3,4,"Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem.",{romance},Aliquam Erat Volutpat Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-10-26,8,"lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam","{romance, terror}",Elit Etiam Laoreet Company,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2022-9-24,14,molestie tellus. Aenean egestas hendrerit neque. In ornare sagittis felis.,"{terror, romance}",Mauris Elit PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2023-2-22,3,"in magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum","{accion, romance}",Aliquet Diam Sed Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-7-6,4,tincidunt. Donec vitae erat vel pede blandit congue. In scelerisque,"{accion, romance, terror}",Vel Mauris Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2023-7-15,16,blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae,"{terror, accion}",Suspendisse Sagittis Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-10-3,16,in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan,"{accion, terror}",Lorem Vehicula Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2022-10-3,2,"dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel,","{terror, romance}",Placerat Eget PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2022-3-24,21,"luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat eget,","{accion, romance}",Ipsum Dolor Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2023-5-6,14,Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed,"{accion, romance}",Pede Suspendisse Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-7-16,21,"et risus. Quisque libero lacus, varius et, euismod et, commodo",{accion},Dui Quis Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+8,2023-9-1,18,"pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi.",{romance},In Consectetuer Ipsum Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-7-23,14,ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor,"{accion, romance, terror}",In Mi Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-10-13,18,a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu.,"{terror, romance}",Amet Consectetuer Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-12-19,15,condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus,{romance},Arcu Aliquam Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+12,2022-4-17,10,dignissim lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus,"{romance, terror, accion}",Velit Eget Laoreet Consulting,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2022-9-27,13,Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam,"{accion, terror}",Porttitor Scelerisque Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2023-1-10,10,"elit, a feugiat tellus lorem eu metus. In lorem. Donec","{romance, accion}",Euismod Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-5-15,18,interdum enim non nisi. Aenean eget metus. In nec orci.,"{terror, accion}",At Iaculis Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+9,2023-6-29,20,nulla. In tincidunt congue turpis. In condimentum. Donec at arcu.,"{terror, romance}",Enim Nec Tempus Company,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2023-2-8,19,"nec, leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod","{terror, romance, accion}",Sem Pellentesque Ut Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2023-4-11,9,ligula. Aenean gravida nunc sed pede. Cum sociis natoque penatibus,"{accion, romance}",Elementum At Egestas Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2022-2-4,12,"libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet","{accion, terror}",Neque Morbi Quis LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-11-19,5,"eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis","{terror, romance, accion}",Nec Leo Morbi Industries,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2023-11-5,16,"lectus pede et risus. Quisque libero lacus, varius et, euismod","{romance, accion, terror}",Aliquam Foundation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-6-27,0,ante ipsum primis in faucibus orci luctus et ultrices posuere,"{romance, terror, accion}",Dignissim Pharetra Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-11-8,4,"leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in,","{accion, romance, terror}",Blandit Viverra Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2022-6-5,3,"Donec porttitor tellus non magna. Nam ligula elit, pretium et,",{accion},Praesent Eu Corporation,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-3-21,12,cubilia Curae Donec tincidunt. Donec vitae erat vel pede blandit,{terror},Felis Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-7-10,20,gravida. Praesent eu nulla at sem molestie sodales. Mauris blandit,"{accion, terror}",Luctus Et LLC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+11,2022-4-27,15,enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida.,"{romance, terror, accion}",Erat Inc.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-4-21,8,"non massa non ante bibendum ullamcorper. Duis cursus, diam at","{romance, terror, accion}",Ornare In Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+0,2022-3-7,18,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor,","{terror, romance}",Nec Tellus Nunc Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+3,2022-10-5,3,"vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit",{accion},Lacus PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2023-4-27,17,"dictum eleifend, nunc risus varius orci, in consequat enim diam","{accion, terror}",Pulvinar Arcu Et PC,86859a6c-7ded-11ed-9037-f42679b2c1cb
+1,2022-6-6,16,ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor.,"{terror, romance, accion}",Duis Limited,86859a6c-7ded-11ed-9037-f42679b2c1cb
+2,2022-9-4,7,"cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum","{accion, terror}",Nullam Suscipit Corp.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-9-9,15,egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem,{romance},Orci Tincidunt Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+4,2023-9-14,19,lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus.,{accion},Donec Elementum Consulting,86859a6c-7ded-11ed-9037-f42679b2c1cb
+7,2022-9-29,15,amet ornare lectus justo eu arcu. Morbi sit amet massa.,"{terror, romance}",Eu Enim Industries,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-7-18,21,"diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget,",{terror},Neque Sed Ltd,86859a6c-7ded-11ed-9037-f42679b2c1cb
+5,2022-4-25,12,"a, aliquet vel, vulputate eu, odio. Phasellus at augue id","{accion, terror}",Dis Parturient Associates,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2023-6-15,14,arcu. Curabitur ut odio vel est tempor bibendum. Donec felis,"{accion, terror}",Nulla Tempor Augue LLP,86859a6c-7ded-11ed-9037-f42679b2c1cb
+3,2022-10-13,2,vulputate velit eu sem. Pellentesque ut ipsum ac mi eleifend,"{terror, accion}",Amet Ante Company,86859a6c-7ded-11ed-9037-f42679b2c1cb
+10,2022-3-24,17,"placerat, augue. Sed molestie. Sed id risus quis diam luctus","{accion, terror, romance}",Nulla Cras Inc.,86859a6c-7ded-11ed-9037-f42679b2c1cb
+6,2022-8-16,2,"ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec,","{accion, romance}",Adipiscing Fringilla Institute,86859a6c-7ded-11ed-9037-f42679b2c1cb

@@ -1,0 +1,50 @@
+ copy videojuegos_por_mes (mes,fecha_lanzamiento,edad_minima,descripcion,genero,titulo,id_videojuego) from '/var/lib/cassandra/mandatory/videojuegos_por_mes.csv' with HEADER=TRUE ; 
+ copy usuario_por_nombre (nombre,facebook,nacionalidad,fecha_nacimiento,fecha_registro) from '/var/lib/cassandra/mandatory/user.csv' with HEADER=TRUE ;  
+  copy usuario_por_facebook (nombre,facebook,nacionalidad,fecha_nacimiento,fecha_registro) from '/var/lib/cassandra/mandatory/user.csv' with HEADER=TRUE ;   
+ copy maets.videojuegos_por_usuario (nombre_usuario,fecha_compra,titulo_videojuego) from '/var/lib/cassandra/mandatory/Compras.csv' with  HEADER=TRUE;  
+ 
+ select titulo_videojuego, fecha_compra
+from videojuegos_por_usuario
+where nombre_usuario = 'Petete';
+
+select * from videojuegos_por_mes where edad_minima >= 18 allow filtering ;
+
+create table usuario_por_facebook
+(
+    facebook         text primary key,
+    fecha_nacimiento date,
+    fecha_registro   date,
+    nacionalidad     text,
+    nombre           text
+);
+
+create table usuario_por_nombre
+(
+    nombre           text primary key,
+    facebook         text,
+    fecha_nacimiento date,
+    fecha_registro   date,
+    nacionalidad     text
+);
+
+create table videojuegos_por_mes
+(
+    mes               int,
+    fecha_lanzamiento date,
+    edad_minima       int,
+    descripcion       text,
+    genero            set<text>,
+    id_videojuego     uuid,
+    titulo            text,
+    primary key (mes, fecha_lanzamiento, edad_minima)
+);
+
+create table videojuegos_por_usuario
+(
+    nombre_usuario    text,
+    fecha_compra      date,
+    titulo_videojuego text,
+    primary key (nombre_usuario, fecha_compra)
+)
+            with clustering order by (fecha_compra desc);
+
